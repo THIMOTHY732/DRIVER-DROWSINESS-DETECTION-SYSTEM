@@ -1,5 +1,4 @@
-# driver-fatigue-detection-system
-drowsiness detection
+# DRIVER_DROWSINESS_DETECTION_SYSYEM
 
 # Intallation process
 
@@ -45,7 +44,7 @@ Pre-reqs:
 Clone the code from github:
 
 ```bash
-git clone https://github.com/davisking/dlib.git
+git clone https://github.com/THIMOTHY732/main.git
 ```
 
 Build the main dlib library:
